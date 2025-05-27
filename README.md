@@ -107,7 +107,3 @@ int main(void)
     return (0);
 }
 ```
-
-## Author
-
-- **aitawi** - [GitHub Profile](https://github.com/ITAXBOX)
